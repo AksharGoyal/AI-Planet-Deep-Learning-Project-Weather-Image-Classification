@@ -1,4 +1,4 @@
-# AI Planet Deep Learning Project
+# AI Planet Deep Learning Project: Weather Image Classification 
 ## Project as part of Deep Learning bootcamp
 
 As part of the [Deep Learning](https://aiplanet.com/bootcamp/certificate/verify/b7d1b598-0afc-4963-b7fe-03f14c39bc7a) bootcamp by AI Planet formerly DPhi and IIT Bombay Data Analytics around July, I had to work on a project where I used VGG19 layer to train a neural network model that classified an image of a weather as sunny, rainy, foggy, cloudy or sunrise.
